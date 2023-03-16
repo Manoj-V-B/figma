@@ -1,0 +1,44 @@
+.coimage{
+    background-image: url("husky.jpg");
+    height: 99vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.textcolo{ 
+    color: white;
+    font-weight:bolder;
+    
+}
+.coimage1{
+    background-image: url("dogday1.jpg");
+    height: 99vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.b{ 
+    align-items: center;
+   
+    margin-top: 35vh;
+    border-radius:35px;
+   
+    padding-left:100px;
+    padding-right: 100px;
+    font-weight: bolder;
+}
+.b1{
+    margin-top:100px;
+    
+    border-radius: 30px;
+    border-color: black;
+}
+.cardrounded{
+    border-radius: 25px;
+}
+.btncenter{
+    border-radius: 25px;
+}
+hr{
+    color: gold;
+    border:dashed;
+
+}
